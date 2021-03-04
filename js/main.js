@@ -13,6 +13,6 @@ const other = document.querySelector('#other-info');
 
 button.onclick = function () {
     if (zip.textContent.length === 5) {
-
+        
     }
 }
